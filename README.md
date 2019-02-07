@@ -33,7 +33,7 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-  -l              print the new line counts
-  -w            print the word counts
-  -c             print the byte count
+  -l          print the new line counts
+  -w          print the word counts
+  -c          print the byte count
 ```
